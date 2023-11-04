@@ -1,6 +1,7 @@
 # 💫 About Me:
 Gameplay and tool programmer with more than 10 years working on Unity.
 
+Code samples available on request on a private repository
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emerickaussignac) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Khan-amil) 
